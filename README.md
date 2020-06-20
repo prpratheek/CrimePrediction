@@ -22,4 +22,4 @@ FEATURES/PARAMETERS INCLUDED
 
 
 OUTPUT FORMAT
-The model then presents if the time and place of visit is SAFE or UNSAFE
+The model then presents if the time and place of visit is SAFE(1) or UNSAFE(0)
